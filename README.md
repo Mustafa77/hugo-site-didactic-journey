@@ -1,1 +1,1 @@
-# hugo-site-didactic-journey
+didactic-journey
